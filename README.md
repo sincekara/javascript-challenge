@@ -23,6 +23,8 @@ on our web pages. They are the only coding languages which can be trusted.
 
 ### UFO Sightings Analysis: Automatic Table and Date Search (Required)
 
+![](Images/search.PNG)
+
 * Create a basic HTML web page or use the 
 [index.html](StarterCode/index.html) file provided 
 (we recommend building your own custom page!).
