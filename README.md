@@ -1,6 +1,5 @@
 # JavaScript and DOM Manipulation Challenge_UFO Sightings
-
-![](main.PNG)
+![](Images/main.PNG)
 
 ## Background
 
